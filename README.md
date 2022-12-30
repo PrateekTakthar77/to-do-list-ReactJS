@@ -1,4 +1,4 @@
-#to-do-list BY Prateek Takthar
+# to-do-list BY Prateek Takthar
 
 # Getting Started with Create React App
 
